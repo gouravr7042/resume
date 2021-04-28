@@ -1,0 +1,21 @@
+
+body{
+    background-color: aqua;
+    font-family: 'Original Surfer', cursive;
+}
+
+.personal{
+    margin: 60px 234px;
+}
+hr{
+    border: 1px dotted black;
+}
+.qual{
+    margin: 10px 234px;
+}
+.skills{
+    margin: 10px 234px;
+}
+.contact{
+    margin: 10px 234px;
+}
